@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'LECCION4'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99BB000D7C6443FD9306EB668B98898C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C80C801EEC9A4B2EABE201C4172BC651 }}
           package: .
